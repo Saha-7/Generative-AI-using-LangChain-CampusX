@@ -31,6 +31,15 @@ graph TD
 ## Mental model
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A["Foundation Models"] --> B["User Perspective [Application Building]"]
+    A --> C["Builder Perspective"]
+    
+    style A fill:#1a1a1a,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#2d2d2d,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#2d2d2d,stroke:#fff,stroke-width:2px,color:#fff
+
 flowchart TD
     A["Foundation Models"] --> B["User Perspective [Application Building]"]
     A --> C["Builder Perspective"]
