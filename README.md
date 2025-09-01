@@ -28,4 +28,13 @@ graph TD
 - Education
 
 
-## 
+## Mental model
+
+```mermaid
+flowchart TD
+    A["User Perspective"] --- B{"Foundation Models"} --- C["Builder Perspective"]
+
+    style A fill:#9ee,stroke:#333,stroke-width:1px
+    style B fill:#c9f,stroke:#333,stroke-width:1px
+    style C fill:#9ee,stroke:#333,stroke-width:1px
+```
