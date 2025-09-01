@@ -32,10 +32,11 @@ graph TD
 
 ```mermaid
 flowchart TD
-    A["Foundation Models"] --> B["User Perspective"]
+    A["Foundation Models"] --> B["User Perspective [Application Building]"]
     A --> C["Builder Perspective"]
 
-    style A fill:#c9f,stroke:#333,stroke-width:1px
-    style B fill:#9ee,stroke:#333,stroke-width:1px
-    style C fill:#9ee,stroke:#333,stroke-width:1px
+    style A fill:#c9f,stroke:#000,stroke-width:1px
+    style B fill:#9ee,stroke:#000,stroke-width:1px
+    style C fill:#9ee,stroke:#000,stroke-width:1px
 ```
+
