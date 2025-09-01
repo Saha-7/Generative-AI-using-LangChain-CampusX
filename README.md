@@ -39,13 +39,5 @@ flowchart TD
     style A fill:#1a1a1a,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#2d2d2d,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#2d2d2d,stroke:#fff,stroke-width:2px,color:#fff
-
-flowchart TD
-    A["Foundation Models"] --> B["User Perspective [Application Building]"]
-    A --> C["Builder Perspective"]
-
-    style A fill:#c9f,stroke:#000,stroke-width:1px
-    style B fill:#9ee,stroke:#000,stroke-width:1px
-    style C fill:#9ee,stroke:#000,stroke-width:1px
 ```
 
