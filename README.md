@@ -40,3 +40,16 @@ flowchart TD
     style C fill:#9ee,stroke:#000,stroke-width:1px
 ```
 
+
+## What is LangChain?
+
+- LangChain is an open-source framework for developing applications powered by LLMs.
+
+
+
+## LangChain benefits?
+
+- Concepts of chains
+- Model Agnostic Development
+- Complete ecosystem
+- Memory and state handling
