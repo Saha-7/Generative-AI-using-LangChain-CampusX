@@ -29,3 +29,5 @@ scikit-learn
 
 
 torch
+langchain-community
+sentence-transformers
